@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 DESC
 
 s.homepage         = 'https://github.com/Citcon/citcon_upi_sdk_ios'
-s.license          = { :type => 'MIT', :file => 'LICENSE' }
+s.license          = { :type => 'MIT', :file => 'CPaySDK/LICENSE' }
 s.author           = { 'yansheng.ao@citcon.cn' => 'yansheng.ao@citcon.cn' }
 s.source           = { :http => "https://github.com/Citcon/citcon_upi_sdk_ios/releases/download/v#{s.version}/CPaySDK.zip" }
 
